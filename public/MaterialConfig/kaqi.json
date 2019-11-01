@@ -1,0 +1,780 @@
+﻿{
+  "info": [{
+    "id": 10090,
+    "name": "biaoqian",
+    "type": "Basic",
+    "color": {
+      "r": 0.8970588445663452,
+      "g": 0.8970588445663452,
+      "b": 0.8970588445663452,
+      "a": 1.0
+    },
+    "albedo": -1,
+    "albedoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "albedo2": -1,
+    "albedo2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal": -1,
+    "normalinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normalintensity": 0.0,
+    "normal2": -1,
+    "normal2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal2intensity": 0.0,
+    "emission": -1,
+    "emissioninfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emissioncolor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emissionintensity": 0.0,
+    "emission2": -1,
+    "emission2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emission2color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emission2intensity": 0.0,
+    "ao": -1,
+    "aoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "aointensity": 0.0,
+    "ao2": -1,
+    "ao2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "ao2intensity": 0.0,
+    "metallic": -1,
+    "metallicinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallicintensity": 0.0,
+    "metallic2": -1,
+    "metallic2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallic2intensity": 0.0,
+    "smoothness": 0.0,
+    "reflect": -1,
+    "reflectinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "reflectintensity": 0.0,
+    "opacity": 0.0,
+    "renderqueue": 2000
+  }, {
+    "id": 10132,
+    "name": "Kaqi",
+    "type": "Basic",
+    "color": {
+      "r": 0.8347721099853516,
+      "g": 0.8583055138587952,
+      "b": 0.904411792755127,
+      "a": 1.0
+    },
+    "albedo": -1,
+    "albedoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "albedo2": -1,
+    "albedo2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal": -1,
+    "normalinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normalintensity": 0.0,
+    "normal2": -1,
+    "normal2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal2intensity": 0.0,
+    "emission": -1,
+    "emissioninfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emissioncolor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emissionintensity": 0.0,
+    "emission2": -1,
+    "emission2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emission2color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emission2intensity": 0.0,
+    "ao": -1,
+    "aoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "aointensity": 0.0,
+    "ao2": -1,
+    "ao2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "ao2intensity": 0.0,
+    "metallic": -1,
+    "metallicinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallicintensity": 0.0,
+    "metallic2": -1,
+    "metallic2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallic2intensity": 0.0,
+    "smoothness": 0.0,
+    "reflect": -1,
+    "reflectinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "reflectintensity": 0.0,
+    "opacity": 0.0,
+    "renderqueue": 2000
+  }, {
+    "id": 10216,
+    "name": "banshou",
+    "type": "Basic",
+    "color": {
+      "r": 0.5879999995231628,
+      "g": 0.5879999995231628,
+      "b": 0.5879999995231628,
+      "a": 1.0
+    },
+    "albedo": -1,
+    "albedoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "albedo2": -1,
+    "albedo2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal": -1,
+    "normalinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normalintensity": 0.0,
+    "normal2": -1,
+    "normal2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal2intensity": 0.0,
+    "emission": -1,
+    "emissioninfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emissioncolor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emissionintensity": 0.0,
+    "emission2": -1,
+    "emission2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emission2color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emission2intensity": 0.0,
+    "ao": -1,
+    "aoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "aointensity": 0.0,
+    "ao2": -1,
+    "ao2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "ao2intensity": 0.0,
+    "metallic": -1,
+    "metallicinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallicintensity": 0.0,
+    "metallic2": -1,
+    "metallic2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallic2intensity": 0.0,
+    "smoothness": 0.0,
+    "reflect": -1,
+    "reflectinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "reflectintensity": 0.0,
+    "opacity": 0.0,
+    "renderqueue": 2000
+  }, {
+    "id": 10240,
+    "name": "BanGY_move20191028040109254",
+    "type": "Basic",
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.3100000023841858
+    },
+    "albedo": -1,
+    "albedoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "albedo2": -1,
+    "albedo2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal": -1,
+    "normalinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normalintensity": 0.0,
+    "normal2": -1,
+    "normal2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal2intensity": 0.0,
+    "emission": -1,
+    "emissioninfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emissioncolor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emissionintensity": 0.0,
+    "emission2": -1,
+    "emission2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emission2color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emission2intensity": 0.0,
+    "ao": -1,
+    "aoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "aointensity": 0.0,
+    "ao2": -1,
+    "ao2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "ao2intensity": 0.0,
+    "metallic": -1,
+    "metallicinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallicintensity": 0.0,
+    "metallic2": -1,
+    "metallic2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallic2intensity": 0.0,
+    "smoothness": 0.0,
+    "reflect": -1,
+    "reflectinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "reflectintensity": 0.0,
+    "opacity": 0.0,
+    "renderqueue": 3000
+  }, {
+    "id": 10274,
+    "name": "suliao",
+    "type": "Basic",
+    "color": {
+      "r": 0.33725491166114809,
+      "g": 0.4549019932746887,
+      "b": 0.5882353186607361,
+      "a": 1.0
+    },
+    "albedo": -1,
+    "albedoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "albedo2": -1,
+    "albedo2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal": -1,
+    "normalinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normalintensity": 0.0,
+    "normal2": -1,
+    "normal2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal2intensity": 0.0,
+    "emission": -1,
+    "emissioninfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emissioncolor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emissionintensity": 0.0,
+    "emission2": -1,
+    "emission2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emission2color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emission2intensity": 0.0,
+    "ao": -1,
+    "aoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "aointensity": 0.0,
+    "ao2": -1,
+    "ao2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "ao2intensity": 0.0,
+    "metallic": -1,
+    "metallicinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallicintensity": 0.0,
+    "metallic2": -1,
+    "metallic2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallic2intensity": 0.0,
+    "smoothness": 0.0,
+    "reflect": -1,
+    "reflectinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "reflectintensity": 0.0,
+    "opacity": 0.0,
+    "renderqueue": 2000
+  }, {
+    "id": 10438,
+    "name": "yinsejinshu",
+    "type": "Basic",
+    "color": {
+      "r": 0.9485294222831726,
+      "g": 0.9485294222831726,
+      "b": 0.9485294222831726,
+      "a": 1.0
+    },
+    "albedo": -1,
+    "albedoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "albedo2": -1,
+    "albedo2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal": -1,
+    "normalinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normalintensity": 0.0,
+    "normal2": -1,
+    "normal2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal2intensity": 0.0,
+    "emission": -1,
+    "emissioninfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emissioncolor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emissionintensity": 0.0,
+    "emission2": -1,
+    "emission2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emission2color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emission2intensity": 0.0,
+    "ao": -1,
+    "aoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "aointensity": 0.0,
+    "ao2": -1,
+    "ao2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "ao2intensity": 0.0,
+    "metallic": -1,
+    "metallicinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallicintensity": 0.0,
+    "metallic2": -1,
+    "metallic2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallic2intensity": 0.0,
+    "smoothness": 0.0,
+    "reflect": -1,
+    "reflectinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "reflectintensity": 0.0,
+    "opacity": 0.0,
+    "renderqueue": 2000
+  }, {
+    "id": 10466,
+    "name": "heijinshu",
+    "type": "Basic",
+    "color": {
+      "r": 0.09803922474384308,
+      "g": 0.09803922474384308,
+      "b": 0.09803922474384308,
+      "a": 1.0
+    },
+    "albedo": -1,
+    "albedoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "albedo2": -1,
+    "albedo2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal": -1,
+    "normalinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normalintensity": 0.0,
+    "normal2": -1,
+    "normal2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "normal2intensity": 0.0,
+    "emission": -1,
+    "emissioninfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emissioncolor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emissionintensity": 0.0,
+    "emission2": -1,
+    "emission2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "emission2color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "emission2intensity": 0.0,
+    "ao": -1,
+    "aoinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "aointensity": 0.0,
+    "ao2": -1,
+    "ao2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "ao2intensity": 0.0,
+    "metallic": -1,
+    "metallicinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallicintensity": 0.0,
+    "metallic2": -1,
+    "metallic2info": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "metallic2intensity": 0.0,
+    "smoothness": 0.0,
+    "reflect": -1,
+    "reflectinfo": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "reflectintensity": 0.0,
+    "opacity": 0.0,
+    "renderqueue": 2000
+  }]
+}
